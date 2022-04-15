@@ -1,7 +1,7 @@
 MyFlask:
   component: '@serverless/tencent-flask'
   inputs:
-    region: ap-shanghai
+    region: ap-guangzhou
     functionName: flask-function
     code: ./
     functionConf:
